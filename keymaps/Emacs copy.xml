@@ -1,0 +1,16 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="period" />
+    <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+</keymap>
