@@ -93,10 +93,8 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoChangedFile" />
-  <action id="GotoClass" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -111,6 +109,9 @@
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
+  <action id="PropertyInspectorActions.AddProperty">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
