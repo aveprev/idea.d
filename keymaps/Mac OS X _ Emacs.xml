@@ -21,6 +21,9 @@
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -76,6 +79,9 @@
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="EditorToggleStickySelection">
+    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
